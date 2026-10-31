@@ -1,0 +1,4 @@
+codigo_unico,nombre,estado,tipo_deuda,cantidad,motivo
+1790012345001,PEREZ PEREZ JUAN,SIN DEUDAS,,0.00,
+0912345678001,GOMEZ RUIZ ANA MARIA,CON DEUDAS,Facilidades de pago,"1,250.00",
+1712345678001,,ERROR,,,No se generó el PDF

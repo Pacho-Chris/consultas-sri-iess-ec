@@ -1,0 +1,5 @@
+# Lista de ejemplo. Reemplaza estos códigos por los RUC/cédulas reales.
+# Las líneas que empiezan con # y las líneas vacías se ignoran.
+1790012345001
+0912345678001
+1712345678001

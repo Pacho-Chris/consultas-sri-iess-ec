@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------------------
+# Datos personales y resultados de consultas reales
+# NUNCA versionar: contienen cédulas, nombres, direcciones y montos de deuda.
+# ---------------------------------------------------------------------------
+salidas/
+*/capturas/
+*/certificados/
+*.pdf
+*.zip
+*.log
+
+# Listas de cédulas/RUC e informes generados
+rucs.txt
+lista-rucs.txt
+contribuyentes.json
+contribuyentes.csv
+establecimientos.csv
+resultados.json
+
+# ---------------------------------------------------------------------------
+# Entorno y herramientas
+# ---------------------------------------------------------------------------
+.playwright-cli/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+
+# ---------------------------------------------------------------------------
+# Editores y sistema
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
